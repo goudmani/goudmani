@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Manikanth Goud Gurujala 👋 
 
-<!--
-**goudmani/goudmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Master of Data Science Student | Aspiring Data Scientist
+I am an engineering graduate currently pursuing my **Master of Data Science at the University of British Columbia (UBC)**. I specialize in bridging the gap between complex statistical theory and scalable machine learning solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 **Currently working on:** Refining end-to-end ML pipelines and deep learning architectures.
+- 🌱 **Currently learning:** Advanced Data Wrangling, Time Series Analysis, and Experimental Design, Cloud Deployment. 
+- 💬 **Ask me about:** Regression Models, Clustering and Dimensonaloty Reduction Techniques, and Statistical Modeling in R.
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/gurujala-manikanth-goud) | [Email](manikanthgoud27@gmail.com)
+- ⚡ **Fun fact:** I moved to Vancouver in August 2025 and 
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python (Primary), R, SQL
+- **Libraries:** PyTorch, Scikit-Learn, Pandas, NumPy, Tidyverse
+- **Data Viz:** Shiny, Matplotlib, Plotly, ggplot2
+- **Tools:** Git/GitHub, Docker, Bash
+
+---
+
+### 📈 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=goudmani&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goudmani&layout=compact&theme=radical)
+
+---
+
+### 📁 Featured Projects
+*Selected highlights from my MDS journey at UBC:*
+
+1. **[Iris Classification]**: A reproducible, containerized machine-learning pipeline that classifies Iris flower species from morphological measurements.
+2. **[Data validation]**: Lightweight Python package for defining, validating, and comparing data contracts for tabular datasets.
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=goudmani&label=Profile%20views&color=0e75b6&style=flat" alt="goudmani" />
+</p>
