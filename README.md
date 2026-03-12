@@ -18,6 +18,7 @@ I am an engineering graduate currently pursuing my **Master of Data Science at t
 - **Libraries:** PyTorch, Scikit-Learn, Pandas, NumPy, Tidyverse
 - **Data Viz:** Shiny, Matplotlib, Plotly, ggplot2
 - **Tools:** Git/GitHub, Docker, Bash
+- **Cloud:** AWS
 
 ---
 
