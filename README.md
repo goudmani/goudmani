@@ -10,7 +10,7 @@ I am an engineering graduate currently pursuing my **Master of Data Science at t
 - 🌱 **Currently learning:** Advanced Data Wrangling, Time Series Analysis, and Experimental Design, Cloud Deployment. 
 - 💬 **Ask me about:** Regression Models, Clustering and Dimensonaloty Reduction Techniques, and Statistical Modeling in R.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/gurujala-manikanth-goud) | [Email](manikanthgoud27@gmail.com)
-- ⚡ **Fun fact:** I moved to Vancouver in August 2025 and 
+- ⚡ **Fun fact:** I moved to Vancouver in August 2025 and I've been obsessed with the sky
 ---
 
 ### 🛠️ Tech Stack & Tools
