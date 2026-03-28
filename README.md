@@ -22,13 +22,6 @@ I am an engineering graduate currently pursuing my **Master of Data Science at t
 
 ---
 
-### 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=goudmani&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goudmani&layout=compact&theme=radical)
-
----
-
 ### 📁 Featured Projects
 *Selected highlights from my MDS journey at UBC:*
 
