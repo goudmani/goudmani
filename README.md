@@ -25,8 +25,9 @@ I am an engineering graduate currently pursuing my **Master of Data Science at t
 ### 📁 Featured Projects
 *Selected highlights from my MDS journey at UBC:*
 
-1. **[Iris Classification]**: A reproducible, containerized machine-learning pipeline that classifies Iris flower species from morphological measurements.
-2. **[Data validation]**: Lightweight Python package for defining, validating, and comparing data contracts for tabular datasets.
+1. **[Iris Classification]()**: A reproducible, containerized machine-learning pipeline that classifies Iris flower species from morphological measurements.
+2. **[Data validation]()**: Lightweight Python package for defining, validating, and comparing data contracts for tabular datasets.
+3. **[Agentic RAG search using LLM]()**:
 
 
 ---
