@@ -32,7 +32,23 @@ I am an engineering graduate currently pursuing my **Master of Data Science at t
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,aws,docker,git,github,mysql,r)](https://skillicons.dev)
+## 🛠️ Technical Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,r,pytorch,sklearn,fastapi,aws,docker,githubactions,mongodb,mysql,postgres,git,github,linux,vscode)](https://skillicons.dev)
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-121212?style=for-the-badge)
+![Llama 3](https://img.shields.io/badge/Llama%203-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0096D6?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
 ---
