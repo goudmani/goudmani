@@ -32,8 +32,6 @@ I am an engineering graduate currently pursuing my **Master of Data Science at t
 
 ### Tech Stack
 
-## 🛠️ Technical Skills
-
 [![My Skills](https://skillicons.dev/icons?i=python,r,pytorch,sklearn,fastapi,aws,docker,githubactions,mongodb,mysql,postgres,git,github,linux,vscode)](https://skillicons.dev)
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
