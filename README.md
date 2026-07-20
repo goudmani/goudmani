@@ -1,7 +1,7 @@
 # Hi there, I'm Manikanth Goud Gurujala 👋 
 
 ### 📊 Master of Data Science Student | Aspiring Data Scientist
-I am an engineering graduate currently pursuing my **Master of Data Science at the University of British Columbia (UBC)**. I specialize in bridging the gap between complex statistical theory and scalable machine learning solutions.
+I am a graduate from **Master of Data Science at the University of British Columbia (UBC)**. I specialize in bridging the gap between complex statistical theory and scalable machine learning solutions.
 
 ---
 
