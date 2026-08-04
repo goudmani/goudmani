@@ -10,7 +10,6 @@ I am a graduate from **Master of Data Science at the University of British Colum
 - 🌱 **Currently learning:** Advanced Data Wrangling, Time Series Analysis, and Experimental Design, Cloud Deployment. 
 - 💬 **Ask me about:** Regression Models, Clustering and Dimensonaloty Reduction Techniques, and Statistical Modeling in R.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/gurujala-manikanth-goud) | [Email](manikanthgoud27@gmail.com)
-- ⚡ **Portfolio:** [Website](goudmani.github.io/porfolio/)
 ---
 
 ### 📁 Featured Projects
