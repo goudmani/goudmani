@@ -13,12 +13,11 @@ I am a graduate from **Master of Data Science at the University of British Colum
 ---
 
 ### 📁 Featured Projects
-
-1. **[CodeIQ: Source code knowledge Graph](https://github.com/goudmani/codeiq_source_code_knowledge_graph)**: Parse any React codebase into a queryable knowledge graph + semantic vector index — ask plain-English questions about code structure and get cited answers.
-2. **[Amazon Movie Recommendation System](https://github.com/goudmani/Amazon_movie_recommendation_using_RAG)**:Natural-language movie recommendation engine over 1M+ Amazon reviews — hybrid BM25 + FAISS retrieval orchestrated through a multi-step LLM agent pipeline.
-
-3. **[Crime Dashboard](https://github.com/goudmani/US_crime_dashboard)**: Crime Dashboard - An interactive Shiny for Python dashboard visualizing North American crime trends (1975–2015). Features a geocoded Altair choropleth, temporal trend analysis, and automated data aggregation for major U.S. cities.
-4. **[Data validation](https://github.com/goudmani/Data_Validation_pipeline)**: Lightweight Python package for defining, validating, and comparing data contracts for tabular datasets.
+1. **[TransitPulse BC](https://github.com/goudmani/transitpulse-bc)**: Real-time transit delay prediction on AWS using TransLink data. Streaming GTFS-Realtime ingestion, an S3 lakehouse, and a deployed SageMaker model provisioned by Terraform, **agents** and **subagents** managing the pipeline deployed through GitHub Actions, and machine-verified.
+2. **[CodeIQ: Source code knowledge Graph](https://github.com/goudmani/codeiq_source_code_knowledge_graph)**: Parse any React codebase into a queryable knowledge graph + semantic vector index — ask plain-English questions about code structure and get cited answers.
+3. **[Amazon Movie Recommendation System](https://github.com/goudmani/Amazon_movie_recommendation_using_RAG)**:Natural-language movie recommendation engine over 1M+ Amazon reviews — hybrid BM25 + FAISS retrieval orchestrated through a multi-step LLM agent pipeline.
+4. **[Crime Dashboard](https://github.com/goudmani/US_crime_dashboard)**: Crime Dashboard - An interactive Shiny for Python dashboard visualizing North American crime trends (1975–2015). Features a geocoded Altair choropleth, temporal trend analysis, and automated data aggregation for major U.S. cities.
+5. **[Data validation](https://github.com/goudmani/Data_Validation_pipeline)**: Lightweight Python package for defining, validating, and comparing data contracts for tabular datasets.
 
 ---
 ### Tech Stack
